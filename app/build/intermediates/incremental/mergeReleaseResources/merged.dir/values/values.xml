@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="black1">#313a4d</color>
+    <color name="blue">#0000FF</color>
+    <color name="blue1">#2095ac</color>
+    <color name="blue2">#2398bc</color>
+    <color name="blue3">#34a9cd</color>
+    <color name="gold">#FFD700</color>
+    <color name="gray">#808080</color>
+    <color name="gray1">#dbdbdb</color>
+    <color name="gray2">#ababab</color>
+    <color name="gray3">#ededed</color>
+    <color name="green">#008000</color>
+    <color name="green1">#22008000</color>
+    <color name="green2">#88008000</color>
+    <color name="green3">#aa008000</color>
+    <color name="red">#FF0000</color>
+    <color name="red1">#db2627</color>
+    <color name="red2">#db2829</color>
+    <color name="red3">#22FF0000</color>
+    <color name="red4">#88FF0000</color>
+    <color name="red5">#aaFF0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white1">#eeeeee</color>
+    <color name="yellow">#FFFF00</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">demo-camera</string>
+    <string name="btn_camera_photo">Take picture</string>
+    <string name="btn_camera_scan">Scan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="msg_camera_error">Camera error opening,please try again later</string>
+    <string name="msg_exit_takephoto">Back by pressing again</string>
+    <string name="msg_no_camera">This device does not have a camera</string>
+    <string name="msg_sure">OK</string>
+    <string name="msg_take_fail">Take failure</string>
+    <string name="msg_take_succ">Take success</string>
+    <string name="text_back">Back</string>
+    <string name="text_code_type">Barcode format：</string>
+    <string name="text_data_type">Product Name：</string>
+    <string name="text_metadata">Product Color：</string>
+    <string name="text_result">Result</string>
+    <string name="text_scan_code_tips">Please put the barcode in the box</string>
+    <string name="text_time">Date：</string>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light">        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:actionBarStyle">@style/MyActionBarStyle</item>
+    </style>
+    <style name="MyActionBarStyle" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@color/blue3</item>
+        <item name="android:titleTextStyle">@style/MyActionBarTitleStyle</item>
+    </style>
+    <style name="MyActionBarTitleStyle" parent="@android:style/Widget.Holo.ActionBar.TabView">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>

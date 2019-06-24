@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\values-zh\\message.xml",
+                    "from": {
+                        "startLines": "9,6,3,8,4,5",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "317,212,63,276,116,164",
+                        "endColumns": "57,56,51,39,46,46",
+                        "endOffsets": "370,264,110,311,158,206"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "304,362,419,471,511,558",
+                        "endColumns": "57,56,51,39,46,46",
+                        "endOffsets": "357,414,466,506,553,600"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\values-zh\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,9,10,4,6,12,13,15,7,11,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "162,58,300,350,108,209,462,511,602,250,400,560",
+                        "endColumns": "46,48,49,49,52,40,48,48,46,44,61,41",
+                        "endOffsets": "204,102,345,395,156,245,506,555,644,290,457,597"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,151,201,251,605,646,695,744,791,836,898",
+                        "endColumns": "46,48,49,49,52,40,48,48,46,44,61,41",
+                        "endOffsets": "97,146,196,246,299,641,690,739,786,831,893,935"
+                    }
+                }
+            ]
+        }
+    ]
+}

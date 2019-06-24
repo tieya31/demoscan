@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv_border.xml.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable\\iv_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_border_normal.xml.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable\\bg_border_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_focus_focusing.9.png.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable-hdpi\\ic_focus_focusing.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_capture.xml.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_focus_focused.9.png.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable-hdpi\\ic_focus_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv_borde_press.xml.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable\\iv_borde_press.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv_border_normal.xml.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable\\iv_border_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_borde_press.xml.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable\\bg_borde_press.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_line.png.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable-hdpi\\scan_line.png"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg_down.xml.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable\\button_bg_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_focus_failed.9.png.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable-hdpi\\ic_focus_failed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_border.xml.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable\\bg_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shadow.png.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable-hdpi\\shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qr_code_bg.9.png.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable-hdpi\\qr_code_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg_up.xml.flat",
+        "source": "C:\\Users\\Fathya\\Desktop\\demoscan\\demoscan\\app\\src\\main\\res\\drawable\\button_bg_up.xml"
+    }
+]

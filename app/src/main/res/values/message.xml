@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="msg_no_camera">This device does not have a camera</string>
+    <string name="msg_take_fail">Take failure</string>
+    <string name="msg_take_succ">Take success</string>
+    <string name="msg_exit_takephoto">Back by pressing again</string>
+    
+    <string name="msg_sure">OK</string>
+    <string name="msg_camera_error">Camera error opening,please try again later</string>
+</resources>
+ 

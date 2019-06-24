@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="msg_no_camera">本设备没有相机功能</string>
+    <string name="msg_take_fail">拍照失败</string>
+    <string name="msg_take_succ">拍照成功</string>
+    <string name="msg_exit_takephoto">再按一次返回上一级</string>
+    
+    <string name="msg_sure">确定</string>
+    <string name="msg_camera_error">相机打开出错，请稍后重试</string>
+</resources>

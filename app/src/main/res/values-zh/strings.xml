@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">demo-camera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="text_back">返回</string>
+    <string name="text_result">扫描结果</string>
+    
+    <string name="btn_camera_photo">相机拍照</string>
+    <string name="btn_camera_scan">摄像头扫码</string>
+    <string name="text_scan_code_tips">请将条码正面置于方框内扫描</string>
+    <string name="text_code_type">条码格式：</string>
+    <string name="text_data_type">数据类型：</string>
+    <string name="text_time">时间：</string>
+    <string name="text_metadata">元数据：</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">设置</string>
+    <string name="app_name">demo-camera</string>
+    <string name="btn_camera_photo">相机拍照</string>
+    <string name="btn_camera_scan">摄像头扫码</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="msg_camera_error">相机打开出错，请稍后重试</string>
+    <string name="msg_exit_takephoto">再按一次返回上一级</string>
+    <string name="msg_no_camera">本设备没有相机功能</string>
+    <string name="msg_sure">确定</string>
+    <string name="msg_take_fail">拍照失败</string>
+    <string name="msg_take_succ">拍照成功</string>
+    <string name="text_back">返回</string>
+    <string name="text_code_type">条码格式：</string>
+    <string name="text_data_type">数据类型：</string>
+    <string name="text_metadata">元数据：</string>
+    <string name="text_result">扫描结果</string>
+    <string name="text_scan_code_tips">请将条码正面置于方框内扫描</string>
+    <string name="text_time">时间：</string>
+</resources>
